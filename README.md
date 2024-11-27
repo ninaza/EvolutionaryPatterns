@@ -103,7 +103,7 @@ I recommend NOT having any white spaces in your fasta header as it is likely tha
 
 ## 3. Multiple Sequence Alignment
 
-You will work with the multiple sequence alignments (MSA) in the program **AliView**. This program allows you to manipulate the sequences and the MSA, but does not do automated multiple sequence alignment itself. However, [Muscle](http://www.drive5.com/muscle/) comes packed with AliView and can be called from within the main view, doing the MSA seamlessly. There are many different MSA programs; a commonly used program is [ClustalW](https://www.ebi.ac.uk/Tools/msa/clustalw2/) but it is now outdated, and Muscle performs much better. Another commonly used
+You will work with the multiple sequence alignments (MSA) in the program **AliView**. This program allows you to manipulate the sequences and the MSA, but does not do automated multiple sequence alignment itself. However, [Muscle](http://www.drive5.com/muscle/) comes packed with AliView and can be called from within the main view, doing the MSA seamlessly. There are many different MSA programs; a commonly used program is [ClustalW]([https://www.ebi.ac.uk/Tools/msa/clustalw2/](https://www.genome.jp/tools-bin/clustalw)) but it is now outdated, and Muscle performs much better. Another commonly used
 program that performs well in benchmark studies is [MAFFT](https://mafft.cbrc.jp/alignment/software/); but MAFFT is difficult to pack with other software and has to be installed separately. You could however, use the [online mafft aligner](https://mafft.cbrc.jp/alignment/server/). 
 
 No matter which program you use for the alignment it is recommended to check the alignment manually as no program works perfectly.
