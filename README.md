@@ -186,7 +186,7 @@ END;
 ## 4. Parsimony analysis
 
 Parsimony analyses on molecular data is not much used anymore as the algorithm seems less accurate compared to commonly used ones like Maximum Likelihood and Bayesian algorithms. Nonetheless, you can use it on molecular data and you will run a Parsimony analysis to compare your results to the ones from the Bayesian analysis. 
-There are many different programs to perform parsimony analyses. For very large datasets (>1000 tips) [TNT](http://www.zmuc.dk/public/phylogeny/tnt/) is recommended. Here you will use PAUP*. PAUP* gives you large control of the analysis, and contains many different methods and tests you can use.
+There are many different programs to perform parsimony analyses. For very large datasets (>1000 tips) [TNT](https://www.lillo.org.ar/phylogeny/tnt/) is recommended. Here you will use PAUP*. PAUP* gives you large control of the analysis, and contains many different methods and tests you can use.
 
 - Do a parsimony analysis with bootstrap for each gene.
 - Do a parsimony analysis with bootstrap for the combined data set.
