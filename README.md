@@ -2,7 +2,7 @@
 
 This lab on Evolutionary Patterns course has been inspired by [this](https://github.com/iirisarri/PEB_Phylogenomics) guide on phylogenomics.
 
-This document will guide you through phylogenetics pipeline—–allowing you to go from a bunch of sequences to a phylogenetic tree that represents how the sequences are related to each other. The phylogenetic analyses will yield a phylogenetic hypothesis in terms of shared history (tree topology), but also in terms of evolutionary change (branch lengths) and other
+This document will guide you through phylogenetics pipeline – allowing you to go from a bunch of sequences to a phylogenetic tree that represents how the sequences are related to each other. The phylogenetic analyses will yield a phylogenetic hypothesis in terms of shared history (tree topology), but also in terms of evolutionary change (branch lengths) and other
 interesting parameters such as relative substitution rates between loci, base frequencies, relative substitution frequencies (between different bases), etc.
 
 The phylogenomics pipeline can become very complex, many additional steps might be included (particularly at the stage of dataset assembly!) and some analyses can take weeks to complete. Pipelines are modular, meaning they can (and should) be improved, as well as modified to the particular question at hand.
